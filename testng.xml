@@ -1,0 +1,10 @@
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test thread-count="5" verbose="2" preserve-order="true" name="Sampleuntitled6">
+        <classes>
+            <class name="Runner.TestNgRunnerTest"/> &lt;!&ndash; Ensure this is the correct fully qualified class name &ndash;&gt;
+        </classes>
+    </test>
+</suite>-->
